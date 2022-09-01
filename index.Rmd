@@ -1,0 +1,38 @@
+---
+title: "biostat776-intro-louise-singer"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Hello!
+
+Hello, my name is Lulu Singer! I am a first year ScM student in the Department of Molecular Microbiology and Immunology. Before coming to JHSPH, I earned my BS in Biology from George Mason University. I also minored in Data Analysis and learned R while at GMU. I worked in my university's microbiology lab my sophomore through senior year.
+
+My research interests include schistosomes, trypanosomes, and other parasites that cause neglected tropical diseases (NTDs). I am interested in how parasites are able to evade the hosts immune system.
+
+I do not have a programming background, and have only worked with R. Most of what I know is geared towards data analysis for bench experiments. I am excited to take this course to learn proper programming practices and expand what I can do in R.
+
+## Fun Facts About Me
+
+  1. I like to crochet in my free time and will gladly make you a hat if you want one.
+  2. My favorite animals are ducks, frogs, snails, and dogs (especially my dog, Sophie).
+  3. I have a younger sister who is studying environmental science at UVM.
+  4. My favorite TV shows are Adventure Time, The Boys, and Avatar the Last Airbender.
+  5. As a kid, I lived in Lithuania, the Philippines, and the United Arab Emirates before moving to Virginia.
+
+# Interesting and fun links
+
+ Giant Viruses Blur The Line Between Alive and Not - PBS Eons
+ https://youtu.be/EJvxOO2WVzg
+
+ I Contain Multitudes - Ed Yong
+ https://edyong.me/i-contain-multitudes
+
+ Play with sand
+ https://thisissand.com/
+
+ Relaxing pixel art
+ https://www.8bitdash.com/
